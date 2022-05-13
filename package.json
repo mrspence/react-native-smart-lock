@@ -40,6 +40,6 @@
   },
   "devDependencies": {
     "react": ">=16.8.1  <18",
-    "react-native": "^0.61.5"
+    "react-native": "^0.68.2"
   }
 }
